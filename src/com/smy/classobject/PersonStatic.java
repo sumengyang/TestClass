@@ -1,6 +1,7 @@
 package com.smy.classobject;
 
 //fetch to eclipse
+//utf-8
 
 /*我们new了两个对象，可是静态块只执行了一次，而非静态块执行了两个，且都是在调用构造器之前。
 我们似乎得出了一些结论：静态块是在类的装载时执行的（装入.class文件后），且只执行一次。
