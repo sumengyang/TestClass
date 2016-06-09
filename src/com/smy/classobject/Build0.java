@@ -1,5 +1,7 @@
 package com.smy.classobject;
 
+//将更改后的项目合并到GITHUB
+
 /*1、先装载.class文件，创建Class对象，对静态数据（由static声明的）进行初始化，而且只进行一次初始化。
 2、new Build()在堆上进行空间分配。
 3、执行非静态块。
